@@ -16,7 +16,6 @@ const profile = {
         { title: "Local Boys App", desc: "Hyperlocal service platform" }
     ],
     experience: [
-        "Infosys — SDET & Performance Engineer",
-        "Founder — Local Boys App"
+        "Infosys — SDET & Performance Engineer"
     ]
 };
