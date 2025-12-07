@@ -1,10 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" width="150" alt="Logo"/>
 </p>
-
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner"/>
-</p>
 🚀 Abdul Rehaman — Dynamic Portfolio Website
 This is my personal dynamic portfolio website, built using HTML, CSS, and JavaScript.
 It showcases my profile, skills, projects, and experience — all loaded dynamically using JavaScript objects.
