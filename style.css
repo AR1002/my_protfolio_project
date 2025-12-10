@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Poppins, sans-serif;
-    background: #08c8f8;
+    background: #ccf808;
     color: white;
 }
 
@@ -36,5 +36,5 @@ body {
 
 .card:hover {
     transform: scale(1.05);
-    background: #292929;
+    background: #ec6d05;
 }
