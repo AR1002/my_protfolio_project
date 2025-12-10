@@ -13,7 +13,7 @@ const profile = {
     projects: [
         { title: "Automation Framework", desc: "Reusable test automation suite" },
         { title: "Performance Test Suite", desc: "JMeter + Jenkins pipeline" },
-        { title: "Local Boys App", desc: "Hyperlocal service platform" }
+        
     ],
     experience: [
         "Infosys — SDET & Performance Engineer"
