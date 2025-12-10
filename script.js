@@ -1,4 +1,4 @@
-document.body.classList.add("dynamic-bg");
+// document.body.classList.add("dynamic-bg");
 
 // Hero Section
 document.getElementById("name").textContent = profile.name;
